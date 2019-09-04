@@ -19,12 +19,6 @@ Instituição de Ensino: Universidade do Sul de Santa Catarina – 2008
 Pós-Graduação em Segurança da Informação                                      
 Instituição de Ensino: UNIFOR – Universidade de Fortaleza - 2014
 
-...................................................................
-Higher Course: Information Technology Management
-School: University of Southern Santa Catarina - 2008
-
-Postgraduate in Information Security
-School: UNIFOR - University of Fortaleza - 2014
 
 ### Cursos e Certificações
 
