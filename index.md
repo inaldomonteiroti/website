@@ -1,10 +1,8 @@
 Experiência em desenvolvimento de produtos para Internet ( Sites, Blogs e Lojas Virtuais ). 
 Expertise em PHP, Bootstrap, Foundation, Git ,Laravel e WordPress.
-
 Experiência na área de segurança da informação com conhecimento das melhores práticas de gerenciamento de serviços de TI.
 
-Suporte de TI (chamados, solicitações, incidentes, resolução de problemas); Manutenção de hardware; Instalação de softwares em geral (sistemas operacionais, aplicativos, serviços). Suporte em Redes e Servidores. Experiência na prevenção de incidentes em segurança da informação. Monitoramento de desempenho e disponibilidade de ativos de redes utilizando Nagio
-
+Suporte de TI (chamados, solicitações, incidentes, resolução de problemas); Manutenção de hardware; Instalação de softwares em geral (sistemas operacionais, aplicativos, serviços). Suporte em Redes e Servidores. Experiência na prevenção de incidentes em segurança da informação. Monitoramento de desempenho e disponibilidade de ativos de redes utilizando Nagios.
 
 ### Formação Acadêmica
 
@@ -27,10 +25,6 @@ Redes de Computadores – 2008
 
 Certificação Adobe –Photoshop CS4,  Flash CS4 com Action Script 3.0, Dreamweaver CS4 e Fireworks CS4 - 2007
 
-
 INTEP – Instituto Técnico de Ensino Profissionalizante Rondonópolis-MT. 
 Curso de Administração de CPD e Redes de Computadores e Hardware
 Período –2003
-
-Experiência Profissional:
-
