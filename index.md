@@ -8,10 +8,10 @@ Suporte de TI (chamados, solicitações, incidentes, resolução de problemas); 
 
 ### Formação Acadêmica
 
-Curso Superior: Gestão de Tecnologia da Informação 
+Curso Superior: Gestão de Tecnologia da Informação                                                   
 Instituição de Ensino: Universidade do Sul de Santa Catarina – 2008
 
-Pós-Graduação em Segurança da Informação
+Pós-Graduação em Segurança da Informação                                      
 Instituição de Ensino: UNIFOR – Universidade de Fortaleza - 2014
 
 ### Cursos e Certificações
