@@ -25,7 +25,7 @@ Curso de Monitoramento com Nagios – Configuração e Administração da plataf
 Treinamento para Certificação CISCO CCNA - SENAI
 Redes de Computadores – 2008
 
-Certificação Adobe –Photoshop CS4,  Flash CS4 com Action Script 3.0, Dreamweaver CS4 e Fireworks CS4 - 2007
+Certificação Adobe – Photoshop CS4,  Flash CS4 com Action Script 3.0, Dreamweaver CS4 e Fireworks CS4 - 2007
 
 INTEP – Instituto Técnico de Ensino Profissionalizante Rondonópolis-MT
 Curso de Administração de CPD e Redes de Computadores e Hardware
