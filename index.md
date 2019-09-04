@@ -14,9 +14,9 @@ Curso Superior: Gestão de Tecnologia da Informação
 Instituição de Ensino: Universidade do Sul de Santa Catarina – 2008
 
 Pós-Graduação em Segurança da Informação
-Instituição de Ensino: UNIFOR – Universidade de Fortaleza -2014
+Instituição de Ensino: UNIFOR – Universidade de Fortaleza - 2014
 
-`
+
 ### Cursos e Certificações
 
 Certificado ITIL© Foundation - 2015
