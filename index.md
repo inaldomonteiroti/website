@@ -1,5 +1,7 @@
 ### Inaldo Monteiro / Desenvolvedor Web .
 
+<img alt="" width="260" height="260" class="avatar width-full height-full avatar-before-user-status" src="https://avatars2.githubusercontent.com/u/15660194?s=460&amp;v=4">
+
 Experiência em desenvolvimento de produtos para Internet ( Sites, Blogs e Lojas Virtuais ). 
 Expertise em PHP, Bootstrap, Foundation, Git ,Laravel e WordPress.
 Experiência na área de segurança da informação com conhecimento das melhores práticas de gerenciamento de serviços de TI.
