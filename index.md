@@ -22,9 +22,9 @@ Instituição de Ensino: UNIFOR – Universidade de Fortaleza - 2014
 
 ### Cursos e Certificações
 
-Certificado ITIL© Foundation - 2015
-
 Laravel - DeMedia - 2019
+
+Certificado ITIL© Foundation - 2015
 
 Curso de Monitoramento com Nagios – Configuração e Administração da plataforma. - 2014
 
