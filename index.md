@@ -1,5 +1,5 @@
-<img alt="" width="260" height="260" class="avatar width-full height-full avatar-before-user-status" src="https://avatars2.githubusercontent.com/u/15660194?s=460&amp;v=4">
 
+<img alt="" width="260" height="260" class="avatar width-full height-full avatar-before-user-status" src="https://avatars2.githubusercontent.com/u/15660194?s=460&amp;v=4">
 ### Inaldo Monteiro / Desenvolvedor Web 
 
 Experiência em desenvolvimento de produtos para Internet ( Sites, Blogs e Lojas Virtuais ). 
