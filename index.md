@@ -8,6 +8,7 @@ Experiência na área de segurança da informação com conhecimento das melhore
 Suporte de TI (chamados, solicitações, incidentes, resolução de problemas); Manutenção de hardware; Instalação de softwares em geral (sistemas operacionais, aplicativos, serviços). Suporte em Redes e Servidores. Experiência na prevenção de incidentes em segurança da informação. Monitoramento de desempenho e disponibilidade de ativos de redes utilizando Nagios.
 
 ............................................................................................
+
 Experience in product development for Internet (Websites, Blogs and Virtual Stores). Expertise in PHP, Bootstrap, Foundation, Git, Laravel and WordPress. Experience in information security with knowledge of IT service management best practices.
 
 IT support (calls, requests, incidents, troubleshooting); Maintenance of hardware; Installation of software in general (operating systems, applications, services). Network and Server Support. Experience in information security incident prevention. Network asset performance and availability monitoring using Nagios.
